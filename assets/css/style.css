@@ -1,0 +1,14 @@
+body{
+    font-family: "Roboto";
+}
+
+.logo{
+    width: 5rem;
+}
+.tamaño{
+    font-size: 1.4rem;
+}
+.decoracion{
+    text-decoration: line-through;
+}
+
